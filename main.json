@@ -1,0 +1,55 @@
+{
+	"profile":{
+		"img":"[[[[.jpg",
+		"name":"raja",
+		"id":"123456",
+		"institution":"klu",
+		"place":"vij"
+    },
+    "career":{
+    	"info":"Seeking a challenging position in the field of economics and accounting so as to utilize my skills for organization and individual growth"
+     },
+     "educational":[
+          {
+          	"degree":"b.tech",
+          	"institution":"klu",
+          	"yop":"2020"
+          },
+          {
+          	"degree":"intermediate",
+          	"institution":"sri chaitanya",
+          	"yop":"2016"
+          },
+          {
+            "degree":"s.s.c",
+            "institution":"bhashayam",
+            "yop":"2014"
+          }
+      ],
+       "languages":[
+       	{
+       		"lang":"telugu"
+       	},
+       	{
+       		"lang":"english"
+       	},
+       	{
+       		"lang":"urdu"
+       	}       	
+
+       ],
+       "skills":[
+       	{
+       	"title":"platforms",
+       	 "content":"windows,linux"
+       	       	},
+       	       	{
+       	       		"title":"programming languages",
+       	       		"content":"c,c++,python"
+       	       	},
+       	       	{
+       	       		"title":"database",
+       	       		"content":"oracle,mysql"
+       	       	}
+       	       ]
+   }
